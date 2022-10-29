@@ -4,6 +4,7 @@
 }
 
 body{
+
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
@@ -37,7 +38,7 @@ p {
 .box{
 	margin: 2px;
 	border: 2px solid black;
-	background: gray;
+	background: lightgrey;
 	
 
 }
@@ -75,9 +76,12 @@ p {
 	border-bottom: 2px solid black;
 	right: 0%;
 	top: 0%;
+	
+
 }
 
 #sbeef {
+	color:  white;
 	position: absolute;
 	background: red;
 	text-align: center;
@@ -86,6 +90,7 @@ p {
 	border-bottom: 2px solid black;
 	right: 0%;
 	top: 0%;
+
 }
 
 #ssushi {
@@ -97,11 +102,15 @@ p {
 	border-bottom: 2px solid black;
 	right: 0%;
 	top: 0%;
+
 }
 
 
 .row {
 	width: 100%;
+	
+
+
 }
 
 @media (min-width: 992px ){
