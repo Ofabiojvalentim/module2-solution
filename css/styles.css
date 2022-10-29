@@ -3,6 +3,10 @@
 
 }
 
+body{
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
 .container{
 
 	margin-right: auto;
@@ -64,47 +68,40 @@ p {
 
 #schicken {
 	position: absolute;
-	background: lightblue;
+	background: brown;
 	text-align: center;
 	width: 100px;
 	border-left: 2px solid black;
 	border-bottom: 2px solid black;
 	right: 0%;
 	top: 0%;
-	
-
 }
 
 #sbeef {
 	position: absolute;
-	background: lightblue;
+	background: red;
 	text-align: center;
 	width: 100px;
 	border-left: 2px solid black;
 	border-bottom: 2px solid black;
 	right: 0%;
 	top: 0%;
-
 }
 
 #ssushi {
 	position: absolute;
-	background: lightblue;
+	background: yellow;
 	text-align: center;
 	width: 100px;
 	border-left: 2px solid black;
 	border-bottom: 2px solid black;
 	right: 0%;
 	top: 0%;
-
 }
 
 
 .row {
 	width: 100%;
-	
-
-
 }
 
 @media (min-width: 992px ){
